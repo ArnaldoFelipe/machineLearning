@@ -3,3 +3,4 @@ openpyxl==3.1.5
 ipykernel==7.4.0
 scikit-learn
 matplotlib
+fastparquet
